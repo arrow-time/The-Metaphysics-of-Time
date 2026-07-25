@@ -1,12 +1,19 @@
 # The Metaphysics of Time
 
-The Sequence of Snapshots of Spatial Energy Distribution
+### The Sequence of Snapshots of Spatial Energy Distribution
+
+Zou, Zhi Kai 邹志凯
+
+Email:zhiyan.zou@foxmail.com Wuhan; China
+
+https://orcid.org/0009-0000-4279-1064
+
+Funding Declaration：No funding was received
 
 The core thesis of this paper is grounded in the framework of Spatial Geometric Realism proposed by the author in 2025 [13]. Building upon that earlier work, the present paper reorganizes its arguments from a metaphysical perspective, with the aim of engaging in dialogue with the central concerns of contemporary philosophy of time.The thermodynamic arrow of time, its irreversibility, and the method for computing the thermodynamic entropy of each snapshot are addressed in detail in the main text[13].
 
 Zou, Z. K. (2025). The Thermodynamic Nature of Time, The Geometric Essence of Gravity-Mass, The Quantum Chirality of Space, The Non-Statistical Formula of Entropy, The Dynamical Rules of Causality. Zenodo. https://doi.org/10.5281/zenodo.14788393
 
-The core thesis of this paper is grounded in the framework of Spatial Geometric Realism proposed by the author in 2025 [13]. Building upon that earlier work, the present paper reorganizes its arguments from a metaphysical perspective, with the aim of engaging in dialogue with the central concerns of contemporary philosophy of time.The thermodynamic arrow of time, its irreversibility, and the method for computing the thermodynamic entropy of each snapshot are addressed in detail in the main text[13].
 
 ### Abstract
 
