@@ -2,7 +2,7 @@
 
 ### The Sequence of Snapshots of Spatial Energy Distribution
 
-!(https://raw.githubusercontent.com/arrow-time/The-Metaphysics-of-Time/refs/heads/main/time%20definition%20in%20philosophy%20and%20physics.png)
+![time definition in philosophy and physics](https://raw.githubusercontent.com/arrow-time/The-Metaphysics-of-Time/refs/heads/main/time%20definition%20in%20philosophy%20and%20physics.png)
 
 Zou, Zhi Kai 邹志凯
 
